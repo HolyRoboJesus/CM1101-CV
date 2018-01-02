@@ -39,7 +39,7 @@ nav ul li a{
 	width:100%;
 }
 
-#socmed .button:hover{
+	#socmed .button:hover{
 	color:white;
 }
 
@@ -128,6 +128,10 @@ footer{
 
 nav ul li a{
 	max-width:256px;
+}
+
+nav ul li span{
+	display:block;
 }
 
 nav ul li a img{
